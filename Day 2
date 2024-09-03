@@ -1,8 +1,9 @@
 package Day2;
 
-public class Main {
+public class Day2 {
     
     public static void main(String[] args) {
         
     }
+    
 }
