@@ -1,0 +1,13 @@
+package Day3;
+
+public class Day3 {
+    
+    public static void main(String[] args) {
+        System.out.println("Nama     : Juniardi");
+        System.out.println("NIM      : D0224014");
+        System.out.println("Asal     : Mamasa");
+        System.out.println("Umur     : 19 tahun");
+        System.out.println("Hobi     : Membaca buku, komik, dll");
+    }
+    
+}
