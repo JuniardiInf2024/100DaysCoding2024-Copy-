@@ -1,0 +1,15 @@
+package Days4;
+
+public class Days4 {
+    public static void main(String[] args) {
+        
+        System.out.print("Nama    :Juniardi \nNIM     : D0224014 \nKelas   : Informatika B \n");
+        
+        System.out.printf("Nama         : %s%n", "Juniardi");
+        System.out.printf("Umur         : %d tahun %n", 19);
+        System.out.printf("Tinggi Badan : %s cm%n", 159);
+        System.out.printf("Berat badan  : %s kg%n", 50);
+        
+    }
+    
+}
