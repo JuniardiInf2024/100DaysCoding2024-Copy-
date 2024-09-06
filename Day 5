@@ -1,0 +1,17 @@
+package Days5;
+
+public class Days5 {
+    public static void main(String[] args) {
+        
+        String nama = "Juniardi";
+        String kelas = "Informatika B";
+        int angkatan = 2024;
+        String hobi = "Baca Buku dan Komik";
+        
+        // Menampilkan informasi pribadi ke layar konsol
+        System.out.println("Nama     : " + nama);
+        System.out.println("Kelas    : " + kelas);
+        System.out.println("Angkatan : " + angkatan);
+        System.out.println("Hobi     : " + hobi);
+    }
+}
