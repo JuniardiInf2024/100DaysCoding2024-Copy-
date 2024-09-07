@@ -3,18 +3,11 @@ package Days6;
 public class Days6 {
     public static void main(String[] args) {
         
-        String nama = "Juniardi";
-        String nim = "D0224014";
-        String prodi = "Informatika";
-        int angkatan = 2024;
-        String deskripsi = "Mahasiswa Prodi Informatika angkatan 2024.";
-
+        String nama;
+        String nim;
+        String prodi;
+        int angkatan;
+        String deskripsi;
         
-        System.out.println("Data Mahasiswa:");
-        System.out.println("Nama           : " + nama);
-        System.out.println("NIM            : " + nim);
-        System.out.println("Program Studi  : " + prodi);
-        System.out.println("Angkatan       : " + angkatan);
-        System.out.println("Deskripsi      : " + deskripsi);
     }
 }
