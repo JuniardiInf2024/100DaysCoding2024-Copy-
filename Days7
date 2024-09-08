@@ -1,0 +1,11 @@
+package H7;
+
+public class H7 {
+    public static void main(String[] args) {
+       
+        int umur = ;                   
+        double tinggi = ;            
+        char jenisKelamin = ;          
+        String nama = ;
+    }
+}
