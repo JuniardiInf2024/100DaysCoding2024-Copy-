@@ -1,11 +1,16 @@
-package H7;
+package Days7;
 
-public class H7 {
+public class Days7 {
     public static void main(String[] args) {
-       
-        int umur = ;                   
-        double tinggi = ;            
-        char jenisKelamin = ;          
-        String nama = ;
+        int umur = 19;                    
+        double tinggi = 159.5;            
+        char jenisKelamin = 'L';          
+        String nama = "Juniardi";   
+    
+        System.out.println("Nama         : " + nama);
+        System.out.println("Umur         : " + umur);
+        System.out.println("Tinggi       : " + tinggi + " cm");
+        System.out.println("Jenis Kelamin: " + jenisKelamin);
+        
     }
 }
