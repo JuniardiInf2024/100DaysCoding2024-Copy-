@@ -1,0 +1,21 @@
+package days8;
+
+public class days8 {
+    public static void main(String[] args) {
+        String nama = "Teknik Komputer dan Jaringan";
+        System.out.println("Nama: "+ nama );
+        // sebelum update
+        int umur = 20;
+        System.out.println("Umur: "+ umur);
+        // sebelum update
+        
+        nama = "Informatika";
+        System.out.println("Nama setelah update: "+ nama );
+        //setelah update
+        umur = 60;
+        System.out.println("Umur setelah update: "+ umur);
+        //setelah update
+        
+    }
+    
+}
