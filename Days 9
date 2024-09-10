@@ -1,0 +1,15 @@
+package Days9;
+
+public class Days9 {
+    // Mendeklarasikan variabel konstanta
+    private static final String NAMA = "Juniardi";
+    private static final String KELAS = "Informatika B";
+    private static final int ANGKATAN = 2024;
+
+    public static void main(String[] args) {
+        // Menampilkan informasi mahasiswa
+        System.out.println("Nama     : " + NAMA);
+        System.out.println("Kelas    : " + KELAS);
+        System.out.println("Angkatan : " + ANGKATAN);
+    }
+}
