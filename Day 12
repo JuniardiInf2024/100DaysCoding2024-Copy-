@@ -1,0 +1,16 @@
+package Days12;
+
+public class Days12 {
+    public static void main(String[] args) {
+        
+        int minimum = -2147483648;
+        int maksimum = 2147483647;
+
+        System.out.println("Nilai minimum dari tipe data int: " + minimum);
+        System.out.println("Nilai maksimum dari tipe data int: " + maksimum);
+        
+        int tahun = 2024;
+        
+        System.out.println("Tahun: " + tahun);
+    }
+}
