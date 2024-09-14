@@ -1,0 +1,24 @@
+package evaluasi ;
+
+public class Day13 {
+    public static void main(String[] args) {
+        int umur = 20;
+        int tinggiBadan = 160;
+        final String nama = "Juniardi";
+        
+        //sebelum update
+        System.out.println("Sebelum diupdate");
+        System.out.println("Nama         : " + nama);
+        System.out.println("Umur         : " + umur + " tahun");
+        System.out.println("Timggi Badan : " + tinggiBadan + " cm");
+    
+        umur = 25;
+        tinggiBadan = 178;
+        //setelah update
+        System.out.println("Setelah diupdate");
+        System.out.println("Nama         : " + nama);
+        System.out.println("Umur         : " + umur + " tahun");
+        System.out.println("Timggi Badan : " + tinggiBadan + " cm");
+    
+    }
+}
