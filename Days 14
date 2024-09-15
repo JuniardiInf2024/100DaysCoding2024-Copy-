@@ -1,0 +1,13 @@
+package days14;
+
+public class days14 {
+    public static void main(String[] args) {
+        long umur = 80;
+        long tinggiBadan = 165;
+        System.out.println("Umur          :"+ umur+ " tahun");
+        System.out.println("Tinggi Badan  :"+ tinggiBadan+ " cm");
+        
+        
+    }
+    
+}
