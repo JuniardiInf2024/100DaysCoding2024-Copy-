@@ -1,0 +1,12 @@
+package days14;
+
+public class days14 {
+    public static void main(String[] args) {
+        long beratBadan = 56.9;
+        long tinggiBadan = 165;
+        System.out.println("Berat Badan   :"+ beratBadan+ " kg");
+        System.out.println("Tinggi Badan  :"+ tinggiBadan+ " cm");
+        
+    }
+    
+}
