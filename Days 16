@@ -1,0 +1,13 @@
+package days16;
+
+public class days16 {
+    public static void main(String[] args) {
+        float berat = 2.000f;
+        float harga = 20.000f;
+        System.out.println("Berat    :"+ berat+ " kg");
+        System.out.println("Harga    :"+ harga+ " rupiah");
+        
+        
+    }
+    
+}
