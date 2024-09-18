@@ -1,0 +1,13 @@
+package days17;
+
+public class days17 {
+    public static void main(String[] args) {
+        char inisial = 'J';
+        char jenisKelamin = 'L';
+        char kelas = 'B';
+        System.out.println("Inisial Nama  : "+ inisial);
+        System.out.println("Jenis Kelamin : "+ jenisKelamin);
+        System.out.println("Kelas         : "+ kelas);
+    
+    }
+}
