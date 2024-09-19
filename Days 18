@@ -1,0 +1,13 @@
+package copy;
+
+public class copy {
+    public static void main(String[] args) {
+        boolean wahyudiAdalahAnakInformatika = true;
+    		   boolean wahyudiAdalahAnakTeknikSipil = false;
+    		   System.out.println("Wahyudi adalah anak Informatika "+wahyudiAdalahAnakInformatika);
+    		   System.out.println("Wahyudi adalah anak Informatika "+wahyudiAdalahAnakTeknikSipil);
+    		
+    }
+}
+    		
+    
