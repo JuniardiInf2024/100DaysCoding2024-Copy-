@@ -1,6 +1,6 @@
-package copy;
+package days29;
 
-public class copy {
+public class days19 {
     public static void main(String[] args) {
         String nama = "Juniardi";
         String nim = "D0224014";
