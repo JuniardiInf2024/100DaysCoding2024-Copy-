@@ -1,0 +1,15 @@
+package copy;
+
+public class copy {
+    public static void main(String[] args) {
+        String nama = "Juniardi";
+        String nim = "D0224014";
+        String kelas = "Informatika B";
+    		System.out.println("Nama       : "+nama);
+    		System.out.println("NIM        : "+nim);
+        System.out.println("Kelas      : "+kelas);
+    		
+    }
+}
+    		
+    
