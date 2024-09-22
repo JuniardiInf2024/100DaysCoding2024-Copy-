@@ -2,7 +2,7 @@ package days20;
 
 public class days20 {
     public static void main(String[] args) {
-        byte jumlahMahasiswa = 29;
+        Byte jumlahMahasiswa = 29;
         System.out.println("Jumlah Mahasiswa di kelas B Informatika sebanyak "+ jumlahMahasiswa+ " orang");
     		
     }
