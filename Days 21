@@ -1,0 +1,9 @@
+package days21;
+
+public class days21 {
+    public static void main(String[] args) {
+        Short tahun = 2005;
+        System.out.println("Tahun Kelahiran: " + tahun);
+    }
+}
+    		
