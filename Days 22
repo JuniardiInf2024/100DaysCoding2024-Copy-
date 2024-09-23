@@ -1,0 +1,8 @@
+package days22;
+
+public class days22 {
+    public static void main(String[] args) {
+        Integer angka = 15008;
+        System.out.println("Nomor Undian: " + angka);
+    }
+}
