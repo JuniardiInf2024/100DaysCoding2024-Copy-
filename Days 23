@@ -1,0 +1,10 @@
+package days23;
+
+public class days23 {
+    public static void main(String[] args) {
+        Long nilai = 12345678L;
+        Long nilai2 = 12345679L;
+        System.out.println("Saya menjadi peringkat ke "+ nilai+ " dari " +nilai2+ " orang di angkatan saya" );
+    
+    }
+}
