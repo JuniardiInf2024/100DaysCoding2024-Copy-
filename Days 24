@@ -1,0 +1,10 @@
+package days24;
+
+public class days24 {
+     public static void main(String[] args) {
+      Float ukuran = 159.5f;
+      System.out.println("Tinggi Badan: "+ukuran+" cm");
+        
+         
+     }
+}
