@@ -1,0 +1,8 @@
+package Days25;
+
+public class days25 {
+    public static void main(String[] args) {
+        Double beratBenda = 27.9;
+        System.out.println("Berat kotak itu kira-kira sebesar "+ beratBenda+ " kg");
+    }
+}
