@@ -1,0 +1,8 @@
+package Coding100Hari;
+
+public class days26 {
+    public static void main (String[] args){
+        Character inisial = 'W';
+        System.out.println("Inisial: "+ inisial);
+    }
+}
