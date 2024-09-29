@@ -1,0 +1,13 @@
+package Days28;
+
+public class days28 {
+    public static void main(String[] args) {
+        
+        Boolean mahasiswaTeknik = Boolean.TRUE;
+        Boolean mahasiswaFapertahut = Boolean.FALSE;
+
+        System.out.println("Aku Mahasiswa Teknik: " + mahasiswaTeknik);
+        System.out.println("Aku Mahasiswa Fapertahut: " + mahasiswaFapertahut);
+    }
+}
+
