@@ -1,0 +1,13 @@
+package days29;
+import java.math.BigInteger; 
+public class Days29 {
+        public static void main(String[] args) {
+        // inisialisasi BigInteger
+        BigInteger a = new BigInteger("3034949748");
+        BigInteger b = new BigInteger("8045311447");
+       
+       System.out.println("Populasi dunia tahun 1960 : "+ a);
+       System.out.println("Populasi dunia tahun 2024 : "+ b);
+    }
+    
+}
