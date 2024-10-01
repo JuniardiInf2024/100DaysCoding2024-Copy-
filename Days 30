@@ -1,0 +1,9 @@
+package Days30;
+import java.math.BigDecimal; 
+public class Days30{
+    
+    public static void main(String[] args) {
+        BigDecimal beratBadan = new BigDecimal ("189.98");
+        System.out.println("Berat Badan Kurasa Takada adalah "+beratBadan+" Kg");
+    }
+}
