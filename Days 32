@@ -1,0 +1,36 @@
+package Days32;
+
+public class Days32 {
+       public static void main(String[] args) {
+        // Tipe data primitif
+        byte a = 10;
+        short b = 100;
+        int c = 1000;
+        long d = 10000L;
+        float e = 10.5f;
+        double f = 100.99;
+        char g = 'A';
+        boolean h = true;
+
+        // Konversi ke String menggunakan toString()
+        String juni1 = Byte.toString(a);
+        String juni2 = Short.toString(b);
+        String juni3 = Integer.toString(c);
+        String juni4 = Long.toString(d);
+        String juni5 = Float.toString(e);
+        String juni6 = Double.toString(f);
+        String juni7 = Character.toString(g);
+        String juni8 = Boolean.toString(h);
+
+        // Output hasil konversi
+        System.out.println("String dari byte: " + juni1);
+        System.out.println("String dari short: " + juni2);
+        System.out.println("String dari int: " + juni3);
+        System.out.println("String dari long: " + juni4);
+        System.out.println("String dari float: " + juni5);
+        System.out.println("String dari double: " + juni6);
+        System.out.println("String dari char: " + juni7);
+        
+
+       }
+}
