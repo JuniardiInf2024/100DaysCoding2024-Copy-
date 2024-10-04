@@ -1,0 +1,14 @@
+package days33;
+
+public class Days33 {
+  public static void main(String[] args) {
+        int myInt = 50;
+        double myDouble = myInt; 
+
+        // Menampilkan hasil
+        System.out.println("Nilai int: " + myInt);
+        System.out.println("Nilai double: " + myDouble);
+    
+  }
+}
+
