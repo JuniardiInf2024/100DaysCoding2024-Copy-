@@ -1,0 +1,21 @@
+package days34;
+import java.util.Scanner;
+public class Days34 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Membaca input string
+        System.out.print("Masukkan nama: ");
+        String nama = scanner.nextLine();
+        
+        // Membaca input integer
+        System.out.print("Masukkan usia: ");
+        int umur = scanner.nextInt();
+        
+        System.out.println("Nama saya " + nama + ". Saya berumur " + umur+" tahun");
+        
+        // Menutup scanner untuk mencegah kebocoran memori
+        scanner.close();
+    }
+}
+
