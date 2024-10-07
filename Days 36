@@ -1,0 +1,20 @@
+package days36;
+public class Days36 {
+    public static void main(String[] args) {
+        // Hardcode angka
+        double angka1 = 10.5;
+        double angka2 = 2.0;
+
+        // Melakukan operasi perkalian
+        double hasilPerkalian = angka1 * angka2;
+        // Melakukan operasi pembagian
+        double hasilPembagian = angka1 / angka2;
+        // Melakukan operasi modulo
+        double hasilModulo = angka1 % angka2;
+
+        // Menampilkan hasil
+        System.out.println("Hasil Perkalian: " + hasilPerkalian);
+        System.out.println("Hasil Pembagian: " + hasilPembagian);
+        System.out.println("Hasil Modulo: " + hasilModulo);
+    }
+}
