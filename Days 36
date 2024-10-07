@@ -2,8 +2,8 @@ package days36;
 public class Days36 {
     public static void main(String[] args) {
         
-        double angka1 = 10.5;
-        double angka2 = 2.0;
+        double angka1 = 10;
+        double angka2 = 4;
 
         // Melakukan operasi perkalian
         double hasilPerkalian = angka1 * angka2;
