@@ -2,15 +2,15 @@ package days36;
 public class Days36 {
     public static void main(String[] args) {
         
-        double angka1 = 10;
-        double angka2 = 4;
+        int angka1 = 10;
+        int angka2 = 4;
 
         // Melakukan operasi perkalian
-        double hasilPerkalian = angka1 * angka2;
+        int hasilPerkalian = angka1 * angka2;
         // Melakukan operasi pembagian
-        double hasilPembagian = angka1 / angka2;
+        int hasilPembagian = angka1 / angka2;
         // Melakukan operasi modulo
-        double hasilModulo = angka1 % angka2;
+        int hasilModulo = angka1 % angka2;
 
         // Menampilkan hasil
         System.out.println("Hasil Perkalian: " + hasilPerkalian);
