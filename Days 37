@@ -1,0 +1,18 @@
+package days37;
+
+public class Days37 {
+    
+    public static void main(String[] args) {
+        // Pengisian nilai
+        int a = 10;  // Mengisi nilai 10 ke variabel a
+        System.out.println("Nilai awal adalah " +a);
+        
+        // Pengisian penambahan
+        a += 5;  // Sama dengan a = a + 5
+        System.out.println("Nilai a setelah penambahan 5: " + a);
+        
+        // Pengisian pengurangan
+        a -= 3;  // Sama dengan a = a - 3
+        System.out.println("Nilai a setelah pengurangan 3: " + a);
+    }
+}
