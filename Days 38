@@ -11,7 +11,7 @@ public class Days38 {
         a = a * 5;
         System.out.println("Nilai a setelah perkalian 5: " + a);
         
-        // Pengisian pengurangan
+        // Pengisian pembagian
         a = a / 3; 
         System.out.println("Nilai a setelah pembagian 3: " + a);
     }
