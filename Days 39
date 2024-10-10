@@ -1,0 +1,13 @@
+package days39;
+
+public class Days39 {
+    
+    public static void main(String[] args) {
+        // Pengisian nilai
+        int a = 15;
+
+        // Pengisian Modulo
+        a = a % 5;
+        System.out.println("Hasil Modulo: " + a);
+    }
+}
