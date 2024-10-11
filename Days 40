@@ -1,0 +1,10 @@
+package Days40;
+
+public class Days40 {
+    public static void main(String[] Juniardi){
+        int a = 27;
+        int b = 06;
+        System.out.println(a>b);
+        System.out.println(a<b);
+    }
+}
