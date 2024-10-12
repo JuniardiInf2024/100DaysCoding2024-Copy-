@@ -1,0 +1,11 @@
+package evaluasisenior2;
+import java.util.Scanner;
+public class evaluasisenior2 {
+    public static void main (String[] args){
+        Scanner juniar = new Scanner(System.in);
+        System.out.print("Masukkan umur: ");
+        byte umur = juniar.nextByte();
+        System.out.println("Sekarang Anda berumur " + umur + " tahun");
+        
+    }
+}
