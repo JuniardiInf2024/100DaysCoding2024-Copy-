@@ -1,0 +1,10 @@
+package days43;
+
+public class Days43 {
+    public static void main (String[] args){
+    int a = 17;
+    int b = 12;
+    System.out.println("Nilai a lebih besar atau sama dengan b : "+ (a >= b));
+    System.out.println("Nilai a lebih kecil atau sama dengan b : "+ (a <= b));
+    }
+}
