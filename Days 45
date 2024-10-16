@@ -1,0 +1,13 @@
+package days45 ;
+
+public class Days45 {
+    public static void main(String[] args) {
+        int a = 18;
+        boolean b = a > 10 || a < 20;
+        boolean c = a < 10 || a > 20;
+        boolean d = a > 10 || a > 20;
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+    }
+}
