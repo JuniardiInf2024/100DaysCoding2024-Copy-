@@ -1,0 +1,16 @@
+package days48;
+import java.util.Scanner;
+public class Days48 {
+    public static void main(String[] args) {
+        Scanner wahyudi = new  Scanner(System.in);
+        System.out.print("Masukkan Angka : ");
+        int a = wahyudi.nextInt();
+        if (a%2==0){
+        System.out.println("Ini adalah bilangan genap");
+        }else{
+        System.out.println("Ini adalah bilangan ganjil");
+        }
+        
+        
+    }
+}
