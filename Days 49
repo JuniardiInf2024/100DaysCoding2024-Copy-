@@ -1,0 +1,15 @@
+package days49;
+import java.util.Scanner;
+public class Days49 {
+    public static void main(String[] args) {
+        Scanner wahyudi = new  Scanner(System.in);
+        System.out.print("Masukkan Angka : ");
+        int a = wahyudi.nextInt();
+        if (a<0){
+        System.out.println("Ini adalah bilangan Negatif");
+        }else if (a>0){
+        System.out.println("Ini adalah bilangan Positif");
+        }
+          
+    }
+}
