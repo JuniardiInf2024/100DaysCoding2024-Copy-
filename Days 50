@@ -1,0 +1,17 @@
+package days50;
+import java.util.Scanner;
+public class Days50 {
+    public static void main(String[] args) {
+        Scanner wahyudi = new  Scanner(System.in);
+        System.out.print("Masukkan Angka : ");
+        int a = wahyudi.nextInt();
+        if (a<0){
+        System.out.println("Ini adalah bilangan bulat Negatif");
+        }else if (a==0){
+        System.out.println("Ini adalah bilangan bulat Netral");
+        }
+        else{
+        System.out.println("Ini adalah bilangan bulat Positif");
+        }
+    }
+}
