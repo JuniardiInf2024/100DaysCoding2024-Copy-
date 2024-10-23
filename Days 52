@@ -1,0 +1,12 @@
+package days52;
+import java.util.Scanner;
+public class Days52{
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.print("Masukkan Umur : ");
+        int umur = input.nextInt();
+        String status = (umur >= 18) ? "Dewasa" : "Anak-anak";
+        System.out.print(status);
+    }
+}
+     
