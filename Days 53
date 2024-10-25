@@ -2,7 +2,7 @@ package days53;
 
 public class Days53{
     public static void main(String[] args) {
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; ; i++) {
             System.out.println("Angka: " + i);
         }
     }
