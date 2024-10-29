@@ -1,6 +1,6 @@
-package 58;
+package days58;
 
-public class 58 {
+public class Day58 {
     public static void main(String[] args) {
         int i = 20; 
         while (i > 10) {
