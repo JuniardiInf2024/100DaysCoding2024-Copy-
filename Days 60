@@ -1,0 +1,12 @@
+package day60;
+
+public class Day60 {
+    
+    public static void main(String[] args) {
+        int[] angka ={1,2,3,4,5};
+        for(int a : angka){
+            System.out.println("angka:"+a);
+        }
+    }
+    
+}
