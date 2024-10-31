@@ -1,6 +1,6 @@
-package day60;
+package day59;
 
-public class Day60 {
+public class Day59 {
     
     public static void main(String[] args) {
         int[] angka ={1,2,3,4,5};
