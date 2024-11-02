@@ -1,0 +1,11 @@
+package Day62;
+
+public class day62 {
+    public static void main(String[] args) {
+        for ( int a = 1; a < 1000; a++){
+            System.out.print(a);
+            if (a==10)
+                break;
+        }
+    }
+}
